@@ -8,7 +8,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: /favicon.ico
 
     footer:
         since:
@@ -21,7 +21,7 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle:
+        subtitle: 狂奔直到暴雨之底。
         avatar:
             enabled: true
             local: true
@@ -37,7 +37,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: false
+        enabled: true
         provider: disqus
 
         disqusjs:
