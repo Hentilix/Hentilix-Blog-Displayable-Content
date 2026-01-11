@@ -7,16 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Hentilix Rivery</copyright>
-        <lastBuildDate>Sun, 11 Jan 2026 16:43:25 +0800</lastBuildDate><atom:link href="https://hentilix.netlify.app/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://hentilix.netlify.app/p/test/</link>
-        <pubDate>Sun, 11 Jan 2026 16:43:25 +0800</pubDate>
-        
-        <guid>https://hentilix.netlify.app/p/test/</guid>
-        <description>&lt;p&gt;这是新建的文档。&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hentilix.netlify.app/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Chinese Test</title>
         <link>https://hentilix.netlify.app/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>

@@ -39,6 +39,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-tw"
+                href="https://hentilix.netlify.app/zh-tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://hentilix.netlify.app/en/tags/"
                 />
@@ -46,11 +51,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://hentilix.netlify.app/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://hentilix.netlify.app/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"

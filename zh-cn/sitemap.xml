@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hentilix.netlify.app/</loc>
-    <lastmod>2026-01-11T16:43:25+08:00</lastmod>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -29,27 +29,6 @@
                 hreflang="zh-cn"
                 href="https://hentilix.netlify.app/"
                 />
-  </url><url>
-    <loc>https://hentilix.netlify.app/post/</loc>
-    <lastmod>2026-01-11T16:43:25+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hentilix.netlify.app/ja/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://hentilix.netlify.app/zh-tw/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hentilix.netlify.app/post/"
-                />
-  </url><url>
-    <loc>https://hentilix.netlify.app/p/test/</loc>
-    <lastmod>2026-01-11T16:43:25+08:00</lastmod>
   </url><url>
     <loc>https://hentilix.netlify.app/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
@@ -95,6 +74,24 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://hentilix.netlify.app/p/test-chinese/"
+                />
+  </url><url>
+    <loc>https://hentilix.netlify.app/post/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hentilix.netlify.app/zh-tw/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hentilix.netlify.app/ja/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hentilix.netlify.app/post/"
                 />
   </url><url>
     <loc>https://hentilix.netlify.app/categories/test/</loc>
