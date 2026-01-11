@@ -2,144 +2,144 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/zh-tw/</loc>
+    <loc>https://hentilix.netlify.app/zh-tw/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://example.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/"
+                href="https://hentilix.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/"
+                href="https://hentilix.netlify.app/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hentilix.netlify.app/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/"
+                href="https://hentilix.netlify.app/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/"
+                href="https://hentilix.netlify.app/zh-tw/"
                 />
   </url><url>
-    <loc>https://example.com/zh-tw/categories/</loc>
+    <loc>https://hentilix.netlify.app/zh-tw/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://example.com/en/categories/"
+                hreflang="zh-cn"
+                href="https://hentilix.netlify.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/categories/"
+                href="https://hentilix.netlify.app/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/categories/"
+                hreflang="en"
+                href="https://hentilix.netlify.app/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/categories/"
+                href="https://hentilix.netlify.app/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/categories/"
+                href="https://hentilix.netlify.app/zh-tw/categories/"
                 />
   </url><url>
-    <loc>https://example.com/zh-tw/p/test-chinese/</loc>
+    <loc>https://hentilix.netlify.app/zh-tw/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/p/test-chinese/"
+                href="https://hentilix.netlify.app/p/test-chinese/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/p/test-chinese/"
+                href="https://hentilix.netlify.app/ja/p/test-chinese/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/p/test-chinese/"
+                href="https://hentilix.netlify.app/zh-tw/p/test-chinese/"
                 />
   </url><url>
-    <loc>https://example.com/zh-tw/post/</loc>
+    <loc>https://hentilix.netlify.app/zh-tw/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/post/"
+                href="https://hentilix.netlify.app/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/post/"
+                href="https://hentilix.netlify.app/ja/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/post/"
+                href="https://hentilix.netlify.app/zh-tw/post/"
                 />
   </url><url>
-    <loc>https://example.com/zh-tw/categories/test/</loc>
+    <loc>https://hentilix.netlify.app/zh-tw/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/categories/test/"
+                href="https://hentilix.netlify.app/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/categories/test/"
+                href="https://hentilix.netlify.app/ja/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/categories/test/"
+                href="https://hentilix.netlify.app/zh-tw/categories/test/"
                 />
   </url><url>
-    <loc>https://example.com/zh-tw/categories/%E6%B8%AC%E8%A9%A6/</loc>
+    <loc>https://hentilix.netlify.app/zh-tw/categories/%E6%B8%AC%E8%A9%A6/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/zh-tw/tags/</loc>
+    <loc>https://hentilix.netlify.app/zh-tw/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hentilix.netlify.app/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/tags/"
+                href="https://hentilix.netlify.app/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/tags/"
+                href="https://hentilix.netlify.app/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/"
+                href="https://hentilix.netlify.app/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/tags/"
+                href="https://hentilix.netlify.app/zh-tw/tags/"
                 />
   </url>
 </urlset>
