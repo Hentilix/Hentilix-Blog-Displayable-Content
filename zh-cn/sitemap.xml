@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hentilix.netlify.app/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-12T14:11:27+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -28,6 +28,27 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://hentilix.netlify.app/"
+                />
+  </url><url>
+    <loc>https://hentilix.netlify.app/p/luogu-p4552-poetize6-incdec-sequence-%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2026-01-12T14:11:27+08:00</lastmod>
+  </url><url>
+    <loc>https://hentilix.netlify.app/post/</loc>
+    <lastmod>2026-01-12T14:11:27+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hentilix.netlify.app/zh-tw/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hentilix.netlify.app/ja/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hentilix.netlify.app/post/"
                 />
   </url><url>
     <loc>https://hentilix.netlify.app/categories/</loc>
@@ -76,35 +97,17 @@
                 href="https://hentilix.netlify.app/p/test-chinese/"
                 />
   </url><url>
-    <loc>https://hentilix.netlify.app/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://hentilix.netlify.app/zh-tw/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hentilix.netlify.app/ja/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hentilix.netlify.app/post/"
-                />
-  </url><url>
     <loc>https://hentilix.netlify.app/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://hentilix.netlify.app/zh-tw/categories/test/"
+                hreflang="ja"
+                href="https://hentilix.netlify.app/ja/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://hentilix.netlify.app/ja/categories/test/"
+                hreflang="zh-tw"
+                href="https://hentilix.netlify.app/zh-tw/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -1,6 +1,6 @@
 ---
 date : '2026-01-12T14:11:27+08:00'
-draft : true
+draft : false
 title : 'Luogu P4552 [Poetize6] IncDec Sequence 题解'
 ---
 
