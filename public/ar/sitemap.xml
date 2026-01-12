@@ -11,13 +11,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://hentilix.netlify.app/zh-tw/categories/"
+                hreflang="ja"
+                href="https://hentilix.netlify.app/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://hentilix.netlify.app/ja/categories/"
+                hreflang="zh-tw"
+                href="https://hentilix.netlify.app/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -39,6 +39,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://hentilix.netlify.app/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://hentilix.netlify.app/ja/tags/"
                 />
@@ -46,11 +51,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://hentilix.netlify.app/zh-tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hentilix.netlify.app/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
