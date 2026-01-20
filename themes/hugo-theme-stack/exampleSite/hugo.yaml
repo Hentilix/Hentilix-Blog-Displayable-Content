@@ -1,7 +1,7 @@
 baseurl: https://hentilix.netlify.app/
 languageCode: zh-cn
 theme: hugo-theme-stack
-title: 狂奔直到暴雨之底。
+description: 𝄇
 copyright: Hentilix Rivery
 
 # Theme i18n support
@@ -15,34 +15,34 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Sprint Until the Flood Takes Us.
         weight: 2
         params:
             sidebar:
-                subtitle: Example description
+                subtitle: And All Paths End with the Deluge.
     zh-cn:
         languageName: 简体中文
-        title: 荒原
+        title: 狂奔直到暴雨之底。
         weight: 1
         params:
             sidebar:
-                subtitle: 今天又在想些什么？
+                subtitle: 直到万千道途与暴雨一同终结于此。
 
     zh-tw:
         languageName: 正體中文
-        title: 演示站點
+        title: 狂奔直到暴雨之底。
         weight: 2
         params:
             sidebar:
-                subtitle: 演示說明
+                subtitle: 直到萬韆道途與暴雨一同終結於此。
 
     ja:
         languageName: 日本語
-        title: サンプルサイト
+        title: 豪雨の底まで駆け抜けて。
         weight: 2
         params:
             sidebar:
-                subtitle: サンプル説明
+                subtitle: 無数の道は豪雨とともにここに終わる。
     ar:
         languageName: عربي
         languagedirection: rtl
@@ -72,10 +72,10 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2026
         customText:
 
     dateFormat:
@@ -83,12 +83,12 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 
+        subtitle: 
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/avatar.jpg
 
     article:
         math: false
@@ -276,6 +276,7 @@ markup:
         ordered: true
         startLevel: 2
     highlight:
+        style: github-dark
         noClasses: false
         codeFences: true
         guessSyntax: true

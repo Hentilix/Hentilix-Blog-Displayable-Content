@@ -1,84 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Tags on 狂奔直到暴雨之底。</title>
-        <link>https://hentilix.netlify.app/tags/</link>
-        <description>Recent content in Tags on 狂奔直到暴雨之底。</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>Hentilix Rivery</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://hentilix.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Css</title>
-        <link>https://hentilix.netlify.app/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://hentilix.netlify.app/tags/css/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Html</title>
-        <link>https://hentilix.netlify.app/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://hentilix.netlify.app/tags/html/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Markdown</title>
-        <link>https://hentilix.netlify.app/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://hentilix.netlify.app/tags/markdown/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://hentilix.netlify.app/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://hentilix.netlify.app/tags/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Privacy</title>
-        <link>https://hentilix.netlify.app/tags/privacy/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://hentilix.netlify.app/tags/privacy/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Shortcodes</title>
-        <link>https://hentilix.netlify.app/tags/shortcodes/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://hentilix.netlify.app/tags/shortcodes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tag With Whitespaces</title>
-        <link>https://hentilix.netlify.app/tags/tag-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://hentilix.netlify.app/tags/tag-with-whitespaces/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Text</title>
-        <link>https://hentilix.netlify.app/tags/text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://hentilix.netlify.app/tags/text/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Emoji</title>
-        <link>https://hentilix.netlify.app/tags/emoji/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://hentilix.netlify.app/tags/emoji/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Tags on 荒原</title>
+    <link>https://hentilix.netlify.app/tags/</link>
+    <description>Recent content in Tags on 荒原</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <copyright>© 2026, Hentilix</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hentilix.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Css</title>
+      <link>https://hentilix.netlify.app/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hentilix.netlify.app/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://hentilix.netlify.app/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hentilix.netlify.app/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>https://hentilix.netlify.app/tags/index/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hentilix.netlify.app/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://hentilix.netlify.app/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hentilix.netlify.app/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://hentilix.netlify.app/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hentilix.netlify.app/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>https://hentilix.netlify.app/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hentilix.netlify.app/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text</title>
+      <link>https://hentilix.netlify.app/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hentilix.netlify.app/tags/text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji</title>
+      <link>https://hentilix.netlify.app/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hentilix.netlify.app/tags/emoji/</guid>
+      <description></description>
+    </item>
+  </channel>
 </rss>
