@@ -23,7 +23,7 @@ theme = "hugo-paper"
   github = 'Hentilix'
   instagram = 'hentilix'
 
-  avatar = 'hentilixrivery@outlook.com'
+  avatar = 'static/avatar.jpg'
   name = 'Hentilix'
   bio = '狂奔直到暴雨之底。'
 
