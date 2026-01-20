@@ -6,7 +6,7 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hentilix.netlify.app/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hentilix.netlify.app/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -15,7 +15,7 @@
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hentilix.netlify.app/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hentilix.netlify.app/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -77,22 +77,15 @@
     <loc>https://hentilix.netlify.app/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hentilix.netlify.app/page/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hentilix.netlify.app/contact/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hentilix.netlify.app/_index.ja/</loc>
-  </url><url>
-    <loc>https://hentilix.netlify.app/_index.zh-cn/</loc>
-  </url><url>
-    <loc>https://hentilix.netlify.app/_index.zh-tw/</loc>
   </url><url>
     <loc>https://hentilix.netlify.app/page/links/</loc>
   </url><url>
     <loc>https://hentilix.netlify.app/page/search/</loc>
   </url><url>
     <loc>https://hentilix.netlify.app/categories/test/</loc>
+  </url><url>
+    <loc>https://hentilix.netlify.app/page/about/</loc>
   </url>
 </urlset>

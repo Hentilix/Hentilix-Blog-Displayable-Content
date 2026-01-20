@@ -2,14 +2,17 @@ baseURL = "https://hentilix.netlify.app/"
 title = "荒原"
 author = "Hentilix Rivery"
 copyright = "© 2026, Hentilix"
-languageCode = "zh"
-DefaultContentLanguage = "zh"
+languageCode = "zh-cn"
+DefaultContentLanguage = "zh-cn"
 enableInlineShortcodes = true
+
+disableLanguages = ["ja", "zh-tw", "en"]
+
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
 [pagination]
-  pagerSize = 3
+  pagerSize = 10
 
 # ------------------------------
 theme = "hugo-paper"
@@ -18,11 +21,13 @@ theme = "hugo-paper"
   color = 'linen'
   twitter = 'Karmiator'
   github = 'Hentilix'
-  instagram = 'nan.xiaobei'
+  instagram = 'hentilix'
 
-avatar = 'hentilixrivery@outlook.com'
+  avatar = 'hentilixrivery@outlook.com'
   name = 'Hentilix'
   bio = '狂奔直到暴雨之底。'
+
+  menu = []
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
@@ -30,21 +35,25 @@ avatar = 'hentilixrivery@outlook.com'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-#  [markup.highlight]
-#    lineNos = true
+  [markup.highlight]
+    lineNos = true
+     style = "github-dark"
 
 [menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 10
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "关于我"
+#    url = "/about/"
+#    weight = 10
+#  [[menu.main]]
+#    identifier = "contact"
+#    name = "联系我"
+#    url = "/contact/"
+#    weight = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
 category = "categories"
